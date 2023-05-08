@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ariantron/nestjs_api">
+  <a href="https://github.com/espinhara/nestjs_api">
     <img src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     A simple rest api project implemented with TypeScript programming language, Node.js/NestJS framework, MongoDB database and RabbitMQ message broker. 
     <br />
-    <a href="https://github.com/ariantron/nestjs_api/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/espinhara/nestjs_api/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ariantron/nestjs_api">View Demo</a>
+    <a href="https://github.com/espinhara/nestjs_api">View Demo</a>
     ·
-    <a href="https://github.com/ariantron/issues">Report Bug</a>
+    <a href="https://github.com/espinhara/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ariantron/issues">Request Feature</a>
+    <a href="https://github.com/espinhara/issues">Request Feature</a>
   </p>
 </div>
 
@@ -145,9 +145,9 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Arian Tron - [@ariantron](https://github.com/ariantron) - ariantron@yahoo.com
+Gabriel Espinhara - [@espinhara](https://github.com/espinhara) - gabrielespinhara13@gmail.com
 
-Project Link: [https://github.com/ariantron/nestjs_api](https://github.com/ariantron/nestjs_api)
+Project Link: [https://github.com/espinhara/nestjs_api](https://github.com/espinhara/nestjs_api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,16 +155,16 @@ Project Link: [https://github.com/ariantron/nestjs_api](https://github.com/arian
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ariantron/nestjs_api.svg?style=for-the-badge
-[contributors-url]: https://github.com/ariantron/nestjs_api/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ariantron/nestjs_api.svg?style=for-the-badge
-[forks-url]: https://github.com/ariantron/nestjs_api/network/members
-[stars-shield]: https://img.shields.io/github/stars/ariantron/nestjs_api.svg?style=for-the-badge
-[stars-url]: https://github.com/ariantron/nestjs_api/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ariantron/nestjs_api.svg?style=for-the-badge
-[issues-url]: https://github.com/ariantron/nestjs_api/issues
-[license-shield]: https://img.shields.io/github/license/ariantron/nestjs_api.svg?style=for-the-badge
-[license-url]: https://github.com/ariantron/nestjs_api/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/espinhara/nestjs_api.svg?style=for-the-badge
+[contributors-url]: https://github.com/espinhara/nestjs_api/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/espinhara/nestjs_api.svg?style=for-the-badge
+[forks-url]: https://github.com/espinhara/nestjs_api/network/members
+[stars-shield]: https://img.shields.io/github/stars/espinhara/nestjs_api.svg?style=for-the-badge
+[stars-url]: https://github.com/espinhara/nestjs_api/stargazers
+[issues-shield]: https://img.shields.io/github/issues/espinhara/nestjs_api.svg?style=for-the-badge
+[issues-url]: https://github.com/espinhara/nestjs_api/issues
+[license-shield]: https://img.shields.io/github/license/espinhara/nestjs_api.svg?style=for-the-badge
+[license-url]: https://github.com/espinhara/nestjs_api/blob/master/LICENSE.txt
 [NestJS]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
 [Nest-url]: https://nestjs.com
 [TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
